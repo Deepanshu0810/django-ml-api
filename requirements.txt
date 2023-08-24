@@ -1,2 +1,9 @@
 django
 djangorestframework
+scikit-learn
+pandas
+numpy
+imblearn
+ipykernel
+pickle5
+tensorflow-cpu>=2.12
